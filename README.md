@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SATADRU1/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SATADRU1/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SATADRU1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATADRU1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/SATADRU1/Leetcode/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SATADRU1/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SATADRU1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/SATADRU1/Leetcode/tree/master/0189-rotate-array) |
 ## Matrix
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SATADRU1/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SATADRU1/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
