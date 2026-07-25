@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SATADRU1/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SATADRU1/Leetcode/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/SATADRU1/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SATADRU1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATADRU1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/SATADRU1/Leetcode/tree/master/0189-rotate-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SATADRU1/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/SATADRU1/Leetcode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
