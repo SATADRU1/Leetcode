@@ -16,7 +16,7 @@ public:
 
         if(leftN != NULL)
             return leftN;
-        
+        //if leftN is null
         return rightN;
     }
 };
