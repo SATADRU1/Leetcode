@@ -4,7 +4,7 @@ class Solution {
     int solve(vector<int>& coins, int i, int amount){
         if(amount==0)
             return 1;
-        if(i>=n) //out of bound
+        if(i>=n) //out of bound.
             return 0;
         if(t[i][amount]!=-1)
             return t[i][amount];
