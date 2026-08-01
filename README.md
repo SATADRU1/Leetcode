@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SATADRU1/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SATADRU1/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/SATADRU1/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SATADRU1/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SATADRU1/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SATADRU1/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SATADRU1/Leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/SATADRU1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SATADRU1/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SATADRU1/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SATADRU1/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SATADRU1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
