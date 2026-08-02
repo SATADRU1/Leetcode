@@ -1,4 +1,4 @@
-class Solution {            //using reccursion
+class Solution {            //using reccursion.
     
     int solve(vector<int>& nums, int l, int r, int target){
         if(l> r)
