@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SATADRU1/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/SATADRU1/Leetcode/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/SATADRU1/Leetcode/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/SATADRU1/Leetcode/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SATADRU1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SATADRU1/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SATADRU1/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SATADRU1/Leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SATADRU1/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -188,4 +193,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SATADRU1/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
