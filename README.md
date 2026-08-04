@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SATADRU1/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SATADRU1/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SATADRU1/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/SATADRU1/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/SATADRU1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SATADRU1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SATADRU1/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SATADRU1/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/SATADRU1/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SATADRU1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SATADRU1/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/SATADRU1/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
