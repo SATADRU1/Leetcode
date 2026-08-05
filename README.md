@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/SATADRU1/Leetcode/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/SATADRU1/Leetcode/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/SATADRU1/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SATADRU1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SATADRU1/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SATADRU1/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SATADRU1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SATADRU1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
