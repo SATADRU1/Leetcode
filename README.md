@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SATADRU1/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SATADRU1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATADRU1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/SATADRU1/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/SATADRU1/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SATADRU1/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SATADRU1/Leetcode/tree/master/0200-number-of-islands) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SATADRU1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/SATADRU1/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SATADRU1/Leetcode/tree/master/0704-binary-search) |
