@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SATADRU1/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/SATADRU1/Leetcode/tree/master/0518-coin-change-ii) |
+| [0664-strange-printer](https://github.com/SATADRU1/Leetcode/tree/master/0664-strange-printer) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SATADRU1/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SATADRU1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
+| [0664-strange-printer](https://github.com/SATADRU1/Leetcode/tree/master/0664-strange-printer) |
 ## Linked List
 |  |
 | ------- |
