@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SATADRU1/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SATADRU1/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SATADRU1/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SATADRU1/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Sorting
 |  |
 | ------- |
