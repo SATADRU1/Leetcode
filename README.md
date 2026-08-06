@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SATADRU1/Leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SATADRU1/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SATADRU1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SATADRU1/Leetcode/tree/master/0912-sort-an-array) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SATADRU1/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SATADRU1/Leetcode/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
