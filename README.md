@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SATADRU1/Leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/SATADRU1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SATADRU1/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/SATADRU1/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SATADRU1/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SATADRU1/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SATADRU1/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
