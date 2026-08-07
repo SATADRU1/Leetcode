@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/SATADRU1/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SATADRU1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
+| [0606-construct-string-from-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0664-strange-printer](https://github.com/SATADRU1/Leetcode/tree/master/0664-strange-printer) |
 ## Linked List
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SATADRU1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/SATADRU1/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Breadth-First Search
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SATADRU1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Union-Find
 |  |
