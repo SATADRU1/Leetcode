@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SATADRU1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/SATADRU1/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SATADRU1/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/SATADRU1/Leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
+| [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SATADRU1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SATADRU1/Leetcode/tree/master/0200-number-of-islands) |
+| [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Memoization
 |  |
 | ------- |
@@ -252,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+## Graph Theory
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/SATADRU1/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
