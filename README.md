@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SATADRU1/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/SATADRU1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SATADRU1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SATADRU1/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SATADRU1/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SATADRU1/Leetcode/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SATADRU1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
