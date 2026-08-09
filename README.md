@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/SATADRU1/Leetcode/tree/master/0518-coin-change-ii) |
 | [0664-strange-printer](https://github.com/SATADRU1/Leetcode/tree/master/0664-strange-printer) |
+| [1143-longest-common-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SATADRU1/Leetcode/tree/master/0242-valid-anagram) |
 | [0606-construct-string-from-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0664-strange-printer](https://github.com/SATADRU1/Leetcode/tree/master/0664-strange-printer) |
+| [1143-longest-common-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SATADRU1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
