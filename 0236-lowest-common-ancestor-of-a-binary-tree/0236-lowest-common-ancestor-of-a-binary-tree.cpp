@@ -12,11 +12,12 @@ public:
         TreeNode* rightN = lowestCommonAncestor(root->right,p,q);
 
         if(leftN != NULL && rightN != NULL)
-            return root;
+            return root;  //ter mane peye gechi
 
-        if(leftN != NULL)
-            return leftN;
+        if(leftN == NULL)
+            return rightN;
+
         //if leftN is null
-        return rightN;
+        return leftN;  //tahole right rturn kore debo
     }
 };
