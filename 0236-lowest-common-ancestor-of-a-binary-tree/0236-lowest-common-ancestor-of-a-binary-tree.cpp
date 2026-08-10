@@ -14,10 +14,10 @@ public:
         if(leftN != NULL && rightN != NULL)
             return root;  //ter mane peye gechi
 
-        if(leftN == NULL)
-            return rightN;
+        if(leftN != NULL)
+            return leftN;
 
         //if leftN is null
-        return leftN;  //tahole right rturn kore debo
+        return rightN;  //tahole right rturn kore debo
     }
 };
