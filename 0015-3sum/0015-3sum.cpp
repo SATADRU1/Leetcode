@@ -16,7 +16,7 @@ void twoSum(vector<int>& nums,int target , int i , int j){
             j--;
         result.push_back({-target , nums[i] , nums[j]});
     
-        i++;
+        i++; ....
         j--;
     }
     }
