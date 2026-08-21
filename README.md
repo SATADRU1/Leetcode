@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SATADRU1/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SATADRU1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/SATADRU1/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SATADRU1/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATADRU1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/SATADRU1/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SATADRU1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SATADRU1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SATADRU1/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/SATADRU1/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SATADRU1/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/SATADRU1/Leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SATADRU1/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/SATADRU1/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SATADRU1/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/SATADRU1/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/SATADRU1/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SATADRU1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SATADRU1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SATADRU1/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SATADRU1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SATADRU1/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SATADRU1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -369,4 +373,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SATADRU1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SATADRU1/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SATADRU1/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SATADRU1/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
