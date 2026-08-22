@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SATADRU1/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/SATADRU1/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SATADRU1/Leetcode/tree/master/0509-fibonacci-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SATADRU1/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
