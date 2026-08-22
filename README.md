@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SATADRU1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SATADRU1/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SATADRU1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/SATADRU1/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/SATADRU1/Leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SATADRU1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SATADRU1/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SATADRU1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/SATADRU1/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
