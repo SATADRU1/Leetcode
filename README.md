@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/SATADRU1/Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SATADRU1/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SATADRU1/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SATADRU1/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
