@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SATADRU1/Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SATADRU1/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SATADRU1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SATADRU1/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SATADRU1/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SATADRU1/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SATADRU1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SATADRU1/Leetcode/tree/master/0621-task-scheduler) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SATADRU1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATADRU1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SATADRU1/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SATADRU1/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SATADRU1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SATADRU1/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/SATADRU1/Leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/SATADRU1/Leetcode/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SATADRU1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/SATADRU1/Leetcode/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## String
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SATADRU1/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SATADRU1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SATADRU1/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SATADRU1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
