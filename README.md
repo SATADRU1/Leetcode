@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SATADRU1/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/SATADRU1/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/SATADRU1/Leetcode/tree/master/0912-sort-an-array) |
+| [0941-valid-mountain-array](https://github.com/SATADRU1/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/SATADRU1/Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
