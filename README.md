@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/SATADRU1/Leetcode/tree/master/0175-combine-two-tables) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SATADRU1/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/SATADRU1/Leetcode/tree/master/0595-big-countries) |
 | [1075-project-employees-i](https://github.com/SATADRU1/Leetcode/tree/master/1075-project-employees-i) |
