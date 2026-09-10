@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SATADRU1/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/SATADRU1/Leetcode/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/SATADRU1/Leetcode/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/SATADRU1/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/SATADRU1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/SATADRU1/Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATADRU1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SATADRU1/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SATADRU1/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SATADRU1/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SATADRU1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SATADRU1/Leetcode/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/SATADRU1/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/SATADRU1/Leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/SATADRU1/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SATADRU1/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SATADRU1/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SATADRU1/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
