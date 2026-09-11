@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/SATADRU1/Leetcode/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SATADRU1/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/SATADRU1/Leetcode/tree/master/1729-find-followers-count) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/SATADRU1/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bubble Sort
 |  |
 | ------- |
