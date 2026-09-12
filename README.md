@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/SATADRU1/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/SATADRU1/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/SATADRU1/Leetcode/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/SATADRU1/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SATADRU1/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/SATADRU1/Leetcode/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SATADRU1/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
