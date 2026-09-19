@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/SATADRU1/Leetcode/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/SATADRU1/Leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0626-exchange-seats](https://github.com/SATADRU1/Leetcode/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/SATADRU1/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/SATADRU1/Leetcode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SATADRU1/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/SATADRU1/Leetcode/tree/master/1179-reformat-department-table) |
