@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SATADRU1/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SATADRU1/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SATADRU1/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SATADRU1/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SATADRU1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SATADRU1/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SATADRU1/Leetcode/tree/master/0231-power-of-two) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SATADRU1/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/SATADRU1/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SATADRU1/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/SATADRU1/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Stack
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SATADRU1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SATADRU1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SATADRU1/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/SATADRU1/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/SATADRU1/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SATADRU1/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/SATADRU1/Leetcode/tree/master/0079-word-search) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SATADRU1/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/SATADRU1/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SATADRU1/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SATADRU1/Leetcode/tree/master/0191-number-of-1-bits) |
