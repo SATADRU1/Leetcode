@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/SATADRU1/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/SATADRU1/Leetcode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/SATADRU1/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1873-calculate-special-bonus](https://github.com/SATADRU1/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/SATADRU1/Leetcode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SATADRU1/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bubble Sort
